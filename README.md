@@ -9,5 +9,5 @@ optional arguments:
   --folder FOLDER  True if path is a directory
   
 Example
->> python car_seg.py --image view1.jpg --folder False
+>> python car_seg.py --image view1.jpg --folder False\n
 >> python car_seg.py --image testing --folder True
